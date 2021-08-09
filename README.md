@@ -3,6 +3,5 @@
   \ __it is bold__
   \ **it is also bold**
   \ _it is italic_
-  \ *it also is italic*
-
-\_ this is underscore.
+it also is italic
+this is underscore.
